@@ -24,7 +24,7 @@ The primary objective of Arena is to simplify gaming tournament administration b
 
 ### Some Demo Images : 
 <img width="870" height="1110" alt="image" src="https://github.com/user-attachments/assets/d47794d3-6741-4462-ba31-f358925706c4" />
-<img width="882" height="1110" alt="image" src="https://github.com/user-attachments/assets/9fe23f0b-443a-4ca1-85d0-2708423e25d7" />
+<img width="874" height="1128" alt="image" src="https://github.com/user-attachments/assets/355fa63c-b8d8-4cd3-a975-82c6da2e7c06" />
 <img width="2054" height="1206" alt="image" src="https://github.com/user-attachments/assets/f8a0992e-c2ec-438c-8d79-79b02498be0d" />
 <img width="2056" height="1066" alt="image" src="https://github.com/user-attachments/assets/6f62c0c4-b037-4c9b-a39a-1156e54684c2" />
 
